@@ -1,0 +1,6 @@
+Vous trouverez dans ce dépot:
+- Le dossier .vim (dans lequel vous êtes actuellement)
+- Le fichier .vimrc
+- Les configurations des différents modules dans le dossier config
+
+!! toutes les configurations sont séparés dans différents fichier dans le dossier config afin de rendre plus simple le paramètrage et la correction d'erreurs !!
